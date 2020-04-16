@@ -10,7 +10,7 @@ The goal of this project is to predict which individuals are most likely to conv
 
 ## Results of the analysis
 
-Results and discussion were published on Medium: [Investigating Customer Segmentation for Arvato Financial Services](https://medium.com/@reni.sundrani/segmentation-report-for-arvato-financial-services-aa1f604c3fdf)
+Results and discussion were published on Medium: [Segmentation Report for Arvato Financial Services](https://medium.com/@reni.sundrani/segmentation-report-for-arvato-financial-services-aa1f604c3fdf)
 
 In this blog, we dive into a real life machine learning project provided by Arvato Financial Solutions, a Bertelsmann subsidiary:
 - Investigated Demographics data of general population of Germany and data for customers of a mail-order company.
